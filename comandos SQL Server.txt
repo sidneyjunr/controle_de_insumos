@@ -1,4 +1,4 @@
-Comandos SQL no SQL Server:
+Comandos SQL no MySQL:
 
 # criar o banco de dados
 CREATE DATABASE EstoqueMentoria
